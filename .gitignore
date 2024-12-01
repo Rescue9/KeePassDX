@@ -87,3 +87,6 @@ releases/*
 .directory
 */.directory
 .idea
+
+# AndroidIDE
+.androidide
